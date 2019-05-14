@@ -6,7 +6,7 @@ When designing the program website, we wanted the concept and design to reflect 
 
 For example, typography in this context can change randomly (as on the website), or through continuous improvement (as new people contribute).
 
-Therefore, we set out to design a display typeface that would reflect the values of change, evolution, expression, etc. rather than a ‘perfect’ finished end-state.
+Therefore, we set out to design a display typeface that would reflect the values of change, evolution, expression, etc. rather than a ‘perfect’ finished end-state. It allows for many ideas, concepts, and authors.
 
 ## License and Distribution
 We decided to open the typeface to contributions in the hopes that students in the MPS program (and others) would add to, edit, and thereby improve the typeface as the program also evolves. New versions can be incorporated into the website or used for other projects.
@@ -14,9 +14,13 @@ We decided to open the typeface to contributions in the hopes that students in t
 To contribute, branch and edit the Glyphs file, and submit a pull request.
 
 ## Usage
-Because of the project parameters and intention, this typeface is not complete (meaning there are a lot of missing glyphs, only basic spacing, etc.). It was designed to complement, dynamically, a ‘real’ typeface by using JavaScript to swap out randomized glyphs. So, to use this typeface, you will need to:
-1. pair it with another typeface
-2. write a program that can replace glyphs with glyphs from the MPS typeface
+Because of the project parameters and intention, this typeface is not intentionally incomplete (meaning there are a lot of missing glyphs, only basic spacing, etc.).
+
+It was designed to be paired with a ‘default’ typeface, using JavaScript to replace random characters with the MPS typeface.
+
+So, to use this typeface, you will need to:
+1. pair it with another typeface with similar metrics
+2. write a program that will replace individual glyphs
 
 There are two sub-families in the Glyphs file:
 - Pixel
