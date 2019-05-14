@@ -14,6 +14,10 @@ We decided to open the typeface to contributions in the hopes that students in t
 To contribute, branch and edit the Glyphs file, and submit a pull request.
 
 ## Usage
+Because of the project parameters and intention, this typeface is not complete (meaning there are a lot of missing glyphs, only basic spacing, etc.). It was designed to complement, dynamically, a ‘real’ typeface by using JavaScript to swap out randomized glyphs. So, to use this typeface, you will need to:
+1. pair it with another typeface
+2. write a program that can replace glyphs with glyphs from the MPS typeface
+
 There are two sub-families in the Glyphs file:
 - Pixel
 - Expressive
