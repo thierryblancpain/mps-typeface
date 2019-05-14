@@ -1,10 +1,24 @@
 # Parsons MPS website typeface
-Custom display type for the Parsons MPS program website.
+This is the typeface for the Parsons MPS program website.
 
-## Typeface
-The typeface is open-source and available here: https://github.com/XXIX/mps-typeface
+## Concept
+When designing the program website, we wanted the concept and design to reflect principles that are innate to interactive media.
 
-Exporting from Glyphs.app
+For example, typography in this context can change randomly (as on the website), or through continuous improvement (as new people contribute).
+
+Therefore, we set out to design a display typeface that would reflect the values of change, evolution, expression, etc. rather than a ‘perfect’ finished end-state.
+
+## License and Distribution
+We decided to open the typeface to contributions in the hopes that students in the MPS program (and others) would add to, edit, and thereby improve the typeface as the program also evolves. New versions can be incorporated into the website or used for other projects.
+
+To contribute, branch and edit the Glyphs file, and submit a pull request.
+
+## Usage
+There are two sub-families in the Glyphs file:
+- Pixel
+- Expressive
+
+Exporting from Glyphs.app:
 1. Open `MPS-Sans.glyphs` on Glyphs
 2. Modify the typeface as you need. First master must not be modify, second is for Expressive font and third is for Pixel.
 3. Export the fonts with `⌘ + E` > Webfonts.
