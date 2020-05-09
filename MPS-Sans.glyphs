@@ -1,10 +1,11 @@
 {
-.appVersion = "1230";
+.appVersion = "1286";
 DisplayStrings = (
 "Unreversed Semicirque Skulked Imponderables Slivovic Juices Rebooting cop\012PORTENT\012Extra portend\012Crispy Abstract Employable\012Recipient\012Certified\012\012MPS Parssons\012Graphic Design\012Semester Communication\012Design\012graphic ddesign\012\012Repent\012Preferencial Quadrifid red Incipient Masterpieces Phenotypes Slovaks Kinescope Boulanger Henpeck Chetahs Marbling Mazarines Sowarree Strobile Tripled Conversationist December\012bdpq Canns Epilogize Petrels Tituling Dictatresses Infomercial Earthiest",
-"ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz"
+"ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz",
+"MPSCD\012Typography\012and interaction"
 );
-date = "2018-12-06 20:11:57 +0000";
+date = "2020-05-09 22:14:31 +0000";
 designer = XXIX;
 designerURL = "http://xxix.co";
 familyName = "MPS Sans";
@@ -339,7 +340,7 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2019-07-10 16:19:04 +0000";
+lastChange = "2019-09-26 06:12:19 +0000";
 layers = (
 {
 background = {
@@ -3729,7 +3730,7 @@ unicode = 0053;
 },
 {
 glyphname = T;
-lastChange = "2019-07-10 16:21:50 +0000";
+lastChange = "2019-09-26 06:29:12 +0000";
 layers = (
 {
 background = {
@@ -3737,14 +3738,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"313 0 LINE",
-"415 0 LINE",
-"415 637 LINE",
-"651 637 LINE",
-"651 725 LINE",
-"77 725 LINE",
-"77 637 LINE",
-"313 637 LINE"
+"333 0 LINE",
+"435 0 LINE",
+"435 637 LINE",
+"671 637 LINE",
+"671 725 LINE",
+"97 725 LINE",
+"97 637 LINE",
+"333 637 LINE"
 );
 }
 );
@@ -3754,23 +3755,23 @@ paths = (
 {
 closed = 1;
 nodes = (
-"332 0 LINE",
-"394 0 LINE",
-"394 725 LINE",
-"332 725 LINE"
+"352 0 LINE",
+"414 0 LINE",
+"414 725 LINE",
+"352 725 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"0 394 LINE",
-"0 338 LINE",
-"725 338 LINE",
-"725 394 LINE"
+"20 394 LINE",
+"20 338 LINE",
+"745 338 LINE",
+"745 394 LINE"
 );
 }
 );
-width = 725;
+width = 765;
 },
 {
 background = {
@@ -3840,6 +3841,7 @@ width = 725;
 leftKerningGroup = T;
 note = T;
 rightKerningGroup = T;
+rightMetricsKey = "=|";
 unicode = 0054;
 },
 {
@@ -9647,5 +9649,5 @@ name = Pixel;
 );
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
