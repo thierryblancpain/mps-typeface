@@ -25,13 +25,17 @@ Because of the project parameters and intention, this typeface is intentionally 
 
 ![](documentation/in-use-1.png)
 
-So, to use this typeface, you will need to:
-1. pair it with another typeface with similar metrics
-2. write a program that will replace individual glyphs
+To contribute:
+1. Clone this repo (it’s best to use Commit Glyphs)
+1. Open `MPS-Sans.glyphs` in Glyphs
+3. Add your designs
+4. Create a pull request
+5. Add your name to the list of contributors
 
-Exporting from Glyphs.app:
-1. Open `MPS-Sans.glyphs` on Glyphs
-2. Modify the typeface as you need. First master must not be modify, second is for Expressive font and third is for Pixel.
-3. Export the fonts with `⌘ + E` > Webfonts.
-4. Select `Truetype`, `Automatic Hinting` and export in WOFF and WOFF2 directly in the `assets > fonts` folder of the website. Expressive and Pixel fonts will be exported.
-5. You can add it to the MPS website by [going to that repo](https://github.com/XXIX/parsons-mps/) and creating a pull request with the new webfont files.
+So, to use this typeface yourself, you will need to:
+- pair it with another typeface with similar metrics (or design all the remaining glyphs)
+- write a program that will replace individual glyphs in your website
+
+## Contributors
+- [Jacob Heftmann](https://www.jacobheftmann.com/)
+- [Quentin Creuzet](https://www.quentincreuzet.fr/)
